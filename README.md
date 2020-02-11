@@ -4,6 +4,7 @@
 NYC_OpenDataAnalysis: The Initial Data Cleaning and Analysis 
 
 ManhattanAnalysis: Manhattan Data Modelling
+
 Brooklyn Analysis: Brooklyn Data Modelling
 
 Predictor : Type of Complaint
