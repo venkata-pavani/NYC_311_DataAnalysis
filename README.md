@@ -3,9 +3,13 @@
 
 NYC_OpenDataAnalysis: The Initial Data Cleaning and Analysis 
 
+## To run a ML Model I had divided this cleaned data based on different boroughs
+
 ManhattanAnalysis: Manhattan Data Modelling
 
-Brooklyn Analysis: Brooklyn Data Modelling
+Brooklyn Analysis: Brooklyn Data Modelling (Still Working)
+
+
 
 Predictor : Type of Complaint
 
