@@ -9,6 +9,12 @@ ManhattanAnalysis: Manhattan Data Modelling
 
 Brooklyn Analysis: Brooklyn Data Modelling (Still Working)
 
+Queens Analysis: Queens Borough Modelling 
+
+Bronx Analysis: Bronx Borough Modelling
+
+StatenIsland Analysis: StatenIsland Modelling
+
 
 
 Predictor : Type of Complaint
