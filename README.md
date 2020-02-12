@@ -27,3 +27,7 @@ Machine Learning Models Used: RANDOM FOREST CLASSIFIER
 Languagues Used: Python (Dask, Pandas, Numpy, matplotlib, seaborn)
 
 Tools: Power BI 
+
+Note: One can access JSON API through dask to load the data in the jupyter notebook using dd.read_json(filepath)
+
+I tried configuring and accessing jupyter in my GCP Cloud . However being a free user I am unable to configure more that 8 GB of Compute Engine in GCP.
