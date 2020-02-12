@@ -24,9 +24,8 @@ Type of Machine Learning: Multi-Class Classification
 
 Machine Learning Models Used: RANDOM FOREST CLASSIFIER
 
-Languagues Used: Python (Dask, Pandas, Numpy, matplotlib, seaborn)
+Languagues and Tools Used: Python (Dask, Pandas, Numpy, matplotlib, seaborn), Power BI
 
-Tools: Power BI 
 
 Note: One can access JSON API through dask to load the data in the jupyter notebook using dd.read_json(filepath)
 
