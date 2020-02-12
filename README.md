@@ -7,7 +7,7 @@ NYC_OpenDataAnalysis: The Initial Data Cleaning and Analysis
 
 ManhattanAnalysis: Manhattan Data Modelling (Please check this Analysis as it has detailed more and this was developed first )
 
-Brooklyn Analysis: Brooklyn Data Modelling (Still Working)
+Brooklyn Analysis: Brooklyn Data Modelling 
 
 Queens Analysis: Queens Borough Modelling 
 
