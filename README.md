@@ -29,4 +29,7 @@ Languagues and Tools Used: Python (Dask, Pandas, Numpy, matplotlib, seaborn), Po
 
 Note: One can access JSON API through dask to load the data in the jupyter notebook using dd.read_json(filepath)
 
-I tried configuring and accessing jupyter in my GCP Cloud through a dataproc cluster . However being a free user I am unable to configure more that 8 GB of Compute Engine in GCP.
+I tried configuring and accessing jupyter in my GCP Cloud through a dataproc cluster . However being a free user I am unable to configure more that 8 GB of Compute Engine in GCP..
+
+
+https://console.cloud.google.com/dataproc/clusters?project=ezoicassessment&folder&organizationId
