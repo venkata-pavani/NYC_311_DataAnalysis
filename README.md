@@ -23,3 +23,7 @@ Type of Machine Learning: Multi-Class Classification
 
 
 Machine Learning Models Used: RANDOM FOREST CLASSIFIER
+
+Languagues Used: Python (Dask, Pandas, Numpy, matplotlib, seaborn)
+
+Tools: Power BI 
