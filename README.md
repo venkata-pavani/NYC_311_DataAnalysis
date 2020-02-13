@@ -19,10 +19,10 @@ StatenIsland Analysis: StatenIsland Modelling
 
 Predictor : Type of Complaint
 
-Type of Machine Learning: Multi-Class Classification
+Type of Machine Learning: Multi-Class Classification , Multi-Class Text Classification
 
 
-Machine Learning Models Used: RANDOM FOREST CLASSIFIER
+Machine Learning Models Used: RANDOM FOREST CLASSIFIER , Linear SVC
 
 Languagues and Tools Used: Python (Dask, Pandas, Numpy, matplotlib, seaborn), Power BI
 
