@@ -5,7 +5,7 @@ NYC_OpenDataAnalysis: The Initial Data Cleaning and Analysis
 
 ## To run a ML Model I had divided this cleaned data based on different boroughs
 
-ManhattanAnalysis: Manhattan Data Modelling (Please check this Analysis as it has detailed more and this was developed first )
+ManhattanAnalysis(5) , ManhattanNew_Analysis, Manhattan_Modelling: Manhattan Data Modelling (Please check this Analysis as it has detailed more and this was developed first )
 
 Brooklyn Analysis: Brooklyn Data Modelling 
 
