@@ -1,5 +1,4 @@
-# NYC OPEN DATA 311 DATABASE ANALYSIS
-## URL :  https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
+# [NYC OPEN DATA 311 DATABASE ANALYSIS](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
 
 NYC_OpenDataAnalysis: The Initial Data Cleaning and Analysis 
 
@@ -25,6 +24,10 @@ Type of Machine Learning: Multi-Class Classification , Multi-Class Text Classifi
 Machine Learning Models Used: RANDOM FOREST CLASSIFIER , Linear SVC
 
 Languagues and Tools Used: Python (Dask, Pandas, Numpy, matplotlib, seaborn), Power BI
+
+Model Evaluation: Precision and Recall Values for each complaint tells us more about True Positive values out of all labels taht are labelled Positive
+
+*** Most of them I got Higher Precision and Recall values along with good accuacy that makes a good model  ***
 
 
 Note: One can access JSON API through dask to load the data in the jupyter notebook using dd.read_json(filepath)
