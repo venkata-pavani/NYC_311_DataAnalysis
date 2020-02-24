@@ -27,7 +27,9 @@ Languagues and Tools Used: Python (Dask, Pandas, Numpy, matplotlib, seaborn), Po
 
 Model Evaluation: Precision and Recall Values for each complaint tells us more about True Positive values out of all labels taht are labelled Positive
 
-**Most of Complaint Types I got Higher Precision and Recall values along with good accuacy that makes a good model  ***
+**Most of Complaint Types I got Higher Precision and Recall values along with good accuacy that makes a good model**
+
+Precision and Recall are explaiend by a simple example in the notebook. Please check :)
 
 
 Note: One can access JSON API through dask to load the data in the jupyter notebook using dd.read_json(filepath)
